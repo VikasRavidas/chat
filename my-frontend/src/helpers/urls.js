@@ -1,4 +1,4 @@
-const API_ROOT = 'http://localhost:8000/api/v2';
+const API_ROOT = '/api/v2';
 
 export const APIUrls = {
   editProfile: () => `${API_ROOT}/users/edit`,
